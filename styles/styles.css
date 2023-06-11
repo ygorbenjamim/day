@@ -15,10 +15,6 @@
   background-color: var(--background);
 }
 
-body {
-  background-color: var(--background);
-}
-
 .info {
   position: absolute;
   top: 50px;
@@ -53,6 +49,7 @@ body {
   align-items: center;
   gap: 20px;
   overflow: hidden;
+  background-color: var(--background);
 }
 
 section {
