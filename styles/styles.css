@@ -15,6 +15,10 @@
   background-color: var(--background);
 }
 
+body {
+  background-color: var(--background);
+}
+
 .info {
   position: absolute;
   top: 50px;
