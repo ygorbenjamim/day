@@ -180,12 +180,14 @@ button {
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   color: var(--secondary);
   background-color: var(--text-white);
+  opacity: 0.3;
   transition: all 0.5s ease;
 }
 
 button:hover {
   cursor: pointer;
   background-color: var(--hover);
+  opacity: 1;
   transition: all 0.5s ease;
 }
 
